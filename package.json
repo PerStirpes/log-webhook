@@ -1,6 +1,7 @@
 {
+  "main": "index.js",
   "scripts": {
-    "start": "micro index.js"
+    "start": "micro"
   },
   "dependencies": {
     "micro": "^9.0.2"
